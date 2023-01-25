@@ -45,12 +45,13 @@ https://simpleicons.org/?q=react
    <!------------------------------------DESCRIPTION-->
 
 # <img  alt="Description"  width="40" height="40" src="https://user-images.githubusercontent.com/104440384/197401332-8a63c531-bd11-4995-b8ff-98d384f18cb3.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> Esse foi um projeto de Portfólio desenvolvido durante a trilha de aprendizado da Compass UOL, em um curso de Git e GitHub, com o objetivo de colocar em prática os aprendizados sobre manipulação de repositórios.
+> Esse foi um projeto de Portfólio desenvolvido durante a trilha de aprendizado da Compass UOL, em um curso de Git e GitHub, com o objetivo de colocar em prática os aprendizados sobre manipulação de repositórios. Também foi possível trabalhar HTML, CSS e responsividade.
   
   
 <!------------------------------------LAYOUT -->
 # <img  alt="Layout"  width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/3474/3474362.png">  Layout <!---write here : talk a little about project: what's does, example.  -->
-.
+![tela portfolio fundo branco (1)](https://user-images.githubusercontent.com/104440384/214465881-01164294-9c8a-46d0-ba25-6677a6c45838.png)
+
 
   
   <!------------------------------------PRODUCTION SKILLS-->
@@ -90,7 +91,7 @@ https://simpleicons.org/?q=react
 Acessar repositório:
 
 ```
-[git clone https://github.com/nataliasguimaraes/memory-card-game.git](https://nataliasguimaraes.github.io/)
+https://nataliasguimaraes.github.io/
 ```
 
 
