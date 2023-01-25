@@ -77,7 +77,7 @@ https://simpleicons.org/?q=react
 * GIT
   * [`git init`](https://git-scm.com/docs/git-init/pt_BR) para criar uma variável cujo o valor é fixo;
   * [`git add`](https://git-scm.com/docs/git-add) para declarar uma variável local no escopo do bloco atual;
-  * [`git pull`]https://git-scm.com/docs/git-pull) para criar uma nova função;
+  * [`git pull`](https://git-scm.com/docs/git-pull) para criar uma nova função;
   * [`git push`](https://git-scm.com/docs/git-pushn) para criar uma nova função;  
   dentre outros...
   
