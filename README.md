@@ -1,9 +1,7 @@
 ## Oii, eu sou a Natália Guimarães, uma Desenvolvedora de Software em formação!
-Estou participando pro programa de Estágio em **AWS Cloud Data Engineering da CompassUOL** <img alt="UOL" height="20" width="20" src="https://user-images.githubusercontent.com/104440384/214565132-2536f181-2aca-437a-a624-5310cd924c0a.png">
+Estou participando pro programa de Estágio em **AWS Cloud Data Engineering** da **CompassUOL** <img alt="UOL" height="20" width="20" src="https://user-images.githubusercontent.com/104440384/214565132-2536f181-2aca-437a-a624-5310cd924c0a.png">
 
-integrando a SQUAD #3: :cloud: CLOUDS :cloud:
-
-
+integrando a SQUAD #3: CLOUDS :cloud:
 
 Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvimento:
 
