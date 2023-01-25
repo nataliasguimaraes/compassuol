@@ -1,5 +1,5 @@
 ## Oii, eu sou a Natália Guimarães, uma Desenvolvedora de Software em formação!
-Estou participando pro programa de Estágio em **AWS Cloud Data Engineering da CompassUOL** 
+Estou participando pro programa de Estágio em **AWS Cloud Data Engineering da CompassUOL** <img alt="UOL" height="20" width="20" src="https://user-images.githubusercontent.com/104440384/214565132-2536f181-2aca-437a-a624-5310cd924c0a.png">
 
 integrando a SQUAD #3: :cloud: CLOUDS :cloud:
 
@@ -20,14 +20,18 @@ Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvime
 - [ ] Apresentação final
 
 
-#### :rocket: Linguagens e ferramentas em aprendizado:
+#### :rocket: Linguagens, frameworks e ferramentas em aprendizado:
 <div>
   <img align="center" alt="Nati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nati-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214360489-b5abd1ed-3612-448f-86d0-d934dff813ab.png">
+  <img align="center" alt="Apache Spark" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214563175-9ff73d42-976f-4573-8df8-29112d5876c5.png">
+  <img align="center" alt="CloudAWS" height="25" width="30" src="https://user-images.githubusercontent.com/104440384/214564965-7f15743f-147a-428a-b84e-068578c5752c.png">
+  <img align="center" alt="Docker" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214564664-41efe864-e283-4698-ad1f-e71a0f84b611.png">
   <img align="center" alt="Github" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214358491-7894c9da-d142-46eb-b97c-ed4508d81792.png">
   <img align="center" alt="Git" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214358921-384e6d46-022f-4ae8-aa4b-a8a5f9098711.png">
+  <img align="center" alt="Linux" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214563385-50b145a9-7f8f-4dc5-85a9-2c4c98991f19.png">
   <img align="right" alt="Nati-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/5VxQrdb.png">
  </div>
  
