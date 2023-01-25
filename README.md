@@ -21,6 +21,7 @@ Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvime
 
 
 #### :rocket: Linguagens e ferramentas em aprendizado:
+<div>
   <img align="center" alt="Nati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nati-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,7 +29,7 @@ Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvime
   <img align="center" alt="Github" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214358491-7894c9da-d142-46eb-b97c-ed4508d81792.png">
   <img align="center" alt="Git" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214358921-384e6d46-022f-4ae8-aa4b-a8a5f9098711.png">
   <img align="right" alt="Nati-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/5VxQrdb.png">
-  
+ </div>
   ##
  
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guimaraessnatalia@gmail.com)
