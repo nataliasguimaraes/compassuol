@@ -1,20 +1,20 @@
 ## Oii, eu sou a Natália Guimarães, uma Desenvolvedora de Software em formação!
-Estou participando pro programa de Estágio em **AWS Cloud Data Engineering** da **CompassUOL** <img alt="UOL" height="20" width="20" src="https://user-images.githubusercontent.com/104440384/214565132-2536f181-2aca-437a-a624-5310cd924c0a.png">
 
-integrando a SQUAD #3: CLOUDS :cloud:
+Estou participando pro programa de Estágio em **AWS Cloud Data Engineering** da **CompassUOL** <img alt="UOL" height="20" width="20" src="https://user-images.githubusercontent.com/104440384/214565132-2536f181-2aca-437a-a624-5310cd924c0a.png">
+<br>integrando a SQUAD #3: CLOUDS :cloud:
 
 Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvimento:
 
 - [ ] #Sprint 1 - Metodologia Ágil, Segurança, Git e Linux (18/01 a 31/01)
 - [ ] #Sprint 2 - SQL e Conceitos usados na área de dados (01/02 a 14/02)
-- [ ] #Sprint 3 - Metodologia Ágil, Segurança, Git e Linux (15/02 a 28/02)
-- [ ] #Sprint 4 - Metodologia Ágil, Segurança, Git e Linux (01/03 a 14/03)
-- [ ] #Sprint 5 - Metodologia Ágil, Segurança, Git e Linux (15/03 a 28/03)
-- [ ] #Sprint 6 - Metodologia Ágil, Segurança, Git e Linux (29/03 a 11/04)
-- [ ] #Sprint 7 - Metodologia Ágil, Segurança, Git e Linux (12/04 a 25/04)
-- [ ] #Sprint 8 - Metodologia Ágil, Segurança, Git e Linux (26/04 a 09/05)
-- [ ] #Sprint 9 - Metodologia Ágil, Segurança, Git e Linux (10/05 a 23/05)
-- [ ] #Sprint 1 - Metodologia Ágil, Segurança, Git e Linux (23/05 a 06/06)
+- [ ] #Sprint 3 - Python (15/02 a 28/02)
+- [ ] #Sprint 4 - Python Funcional, Containers e ML (01/03 a 14/03)
+- [ ] #Sprint 5 - Computação em Nuvem (AWS) (15/03 a 28/03)
+- [ ] #Sprint 6 - Computação em Nuvem (AWS) (29/03 a 11/04)
+- [ ] #Sprint 7 - Arquitetura LAMBDA / Apache Hadoop / Apache Spark (12/04 a 25/04)
+- [ ] #Sprint 8 - Apache Spark Batch (26/04 a 09/05)
+- [ ] #Sprint 9 - Apache Spark Streaming (10/05 a 23/05)
+- [ ] #Sprint 1 - Visualização de dados (23/05 a 06/06)
 - [ ] Apresentação final
 
 
@@ -34,10 +34,9 @@ Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvime
  </div>
  
   ##
- 
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guimaraessnatalia@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-guimar%C3%A3es-6a357721b)
- ![Snake animation](https://github.com/nataliasguimaraes/nataliasguimaraes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nataliasguimaraes/nataliasguimaraes/blob/output/github-contribution-grid-snake.svg)
  
 ![CompassUOL](https://user-images.githubusercontent.com/104440384/214567499-2dc24c5e-d882-4825-b953-f5a69a6be44e.jpg)
 
