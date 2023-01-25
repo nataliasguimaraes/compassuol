@@ -38,4 +38,7 @@ Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvime
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guimaraessnatalia@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-guimar%C3%A3es-6a357721b)
  ![Snake animation](https://github.com/nataliasguimaraes/nataliasguimaraes/blob/output/github-contribution-grid-snake.svg)
+ 
+ ![CompassUOL](https://user-images.githubusercontent.com/104440384/214566504-19d1489c-8641-499b-a626-dbe23945474d.jpg)
+
 
