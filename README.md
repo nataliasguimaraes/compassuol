@@ -30,6 +30,7 @@ Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvime
   <img align="center" alt="Git" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214358921-384e6d46-022f-4ae8-aa4b-a8a5f9098711.png">
   <img align="right" alt="Nati-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/5VxQrdb.png">
  </div>
+ 
   ##
  
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guimaraessnatalia@gmail.com)
