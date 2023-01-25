@@ -59,26 +59,26 @@ https://simpleicons.org/?q=react
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/104440384/197401378-9a96dbaf-852f-430e-87e9-74934c9e10f3.png"> Pontos Abordados: <!---write here: learned concepts; -->
 
  * HTML
-   * [`div`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family) para criar um conteiner;
-   * [`aside`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-align) para representar uma seção da página;
+   * [`div`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/div) para criar um conteiner;
+   * [`aside`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/aside) para representar uma seção da página;
   dentre outros...
 
 * CSS
-  * [`margin`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/display) para definir a área da margem;
-  * [`padding`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family) para definir a distância entre o conteúdo de um elemento e suas bordas;
-  * [`font-family`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-align) para definir as famílias de fonte;
-  * [`root`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin) para definit um seletor de elementos;
-  * [`var`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/display) para definir entidades que contêm valores específicos a serem reutilizados;
-  * [`flex-direction`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-align) para definir como os itens flexíveis são colocados no contêiner flexível;
-  * [`min-height`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin) para ara definir a altura mínima de um determinado elemento;
-  * [`border-radius`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-align) para definir como bordas arredondadas são;
+  * [`margin`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/margin) para definir a área da margem;
+  * [`padding`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/padding) para definir a distância entre o conteúdo de um elemento e suas bordas;
+  * [`font-family`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family) para definir as famílias de fonte;
+  * [`root`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:root) para definir um seletor de elementos;
+  * [`var ()`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/var) para definir valores de uma custom property (propriedade personalizada) substituindo qualquer parte do valor de outra propriedade;
+  * [`flex-direction`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/flex-direction) para definir como os itens flexíveis são colocados no contêiner flexível;
+  * [`min-height`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/min-height) para ara definir a altura mínima de um determinado elemento;
+  * [`border-radius`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/border-radius) para definir como bordas arredondadas são;
   dentre outros...
   
 * GIT
-  * [`git init`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family) para criar uma variável cujo o valor é fixo;
-  * [`git add`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-align) para declarar uma variável local no escopo do bloco atual;
-  * [`git pull`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin) para criar uma nova função;
-  * [`git push`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin) para criar uma nova função;  
+  * [`git init`](https://git-scm.com/docs/git-init/pt_BR) para criar uma variável cujo o valor é fixo;
+  * [`git add`](https://git-scm.com/docs/git-add) para declarar uma variável local no escopo do bloco atual;
+  * [`git pull`]https://git-scm.com/docs/git-pull) para criar uma nova função;
+  * [`git push`](https://git-scm.com/docs/git-pushn) para criar uma nova função;  
   dentre outros...
   
  * GITHUB
