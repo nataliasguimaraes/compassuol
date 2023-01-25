@@ -30,7 +30,7 @@ Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvime
   <img align="center" alt="Github" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214358491-7894c9da-d142-46eb-b97c-ed4508d81792.png">
   <img align="center" alt="Git" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214358921-384e6d46-022f-4ae8-aa4b-a8a5f9098711.png">
   <img align="center" alt="Linux" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214563385-50b145a9-7f8f-4dc5-85a9-2c4c98991f19.png">
-  <img align="right" alt="Nati-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/104440384/214574540-351b8b70-831e-4cd3-81f6-75356861b962.png">
+  <img align="right" alt="Nati-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/104440384/214576775-90842255-a57b-4ee2-b6fd-68d93831aece.png">
  </div>
  
   ##
