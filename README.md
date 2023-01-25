@@ -1,4 +1,4 @@
-## Oii, eu sou a Natália Guimarães, uma Desenvolvedora de software em formação!
+## Oii, eu sou a Natália Guimarães, uma Desenvolvedora de Software em formação!
 Estou participando pro programa de Estágio em **AWS Cloud Data Engineering da CompassUOL** 
 
 integrando a SQUAD #3: :cloud: CLOUDS :cloud:
