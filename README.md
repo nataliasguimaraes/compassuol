@@ -5,7 +5,7 @@ Estou participando pro programa de Estágio em **AWS Cloud Data Engineering** da
 
 Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvimento:
 
-- [ ] #Sprint 1 - Metodologia Ágil, Segurança, Git e Linux (18/01 a 31/01)
+- [X] #Sprint 1 - Metodologia Ágil, Segurança, Git e Linux (18/01 a 31/01)
 - [ ] #Sprint 2 - SQL e Conceitos usados na área de dados (01/02 a 14/02)
 - [ ] #Sprint 3 - Python (15/02 a 28/02)
 - [ ] #Sprint 4 - Python Funcional, Containers e ML (01/03 a 14/03)
