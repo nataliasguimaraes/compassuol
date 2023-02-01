@@ -14,7 +14,7 @@ Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvime
 - [ ] #Sprint 7 - Arquitetura LAMBDA / Apache Hadoop / Apache Spark (12/04 a 25/04)
 - [ ] #Sprint 8 - Apache Spark Batch (26/04 a 09/05)
 - [ ] #Sprint 9 - Apache Spark Streaming (10/05 a 23/05)
-- [ ] #Sprint 10 - Visualização de dados (23/05 a 06/06)
+- [ ] #Sprint 10 - Visualização de dados (24/05 a 06/06)
 - [ ] Apresentação final
 
 
