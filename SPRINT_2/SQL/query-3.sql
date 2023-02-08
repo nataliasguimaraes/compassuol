@@ -1,7 +1,7 @@
-SELECT count(*) quantidade, t2.nome, t3.cidade, t3.estado 
-FROM livro t1
-JOIN editora t2 on (t1.editora = t2.codeditora)
-join endereco t3 on (t2.endereco = t3.codendereco)
-GROUP by t1.editora, t2.nome, t2.endereco
+SELECT count(*) quantidade, editora.nome, cidade, estado 
+FROM livro
+JOIN editora on livro.editora = editora.codeditora
+join endereco on editora.endereco = endereco.codendereco
+GROUP by livro.editora, editora.nome, editora.endereco
 order by quantidade desc
 limit 5
