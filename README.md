@@ -1,8 +1,7 @@
 ## Oii, eu sou a Natália Guimarães, uma Desenvolvedora de Software em formação!
 
 
-
-Estou participando pro programa de Estágio em **AWS Cloud Data Engineering** da **CompassUOL** <img alt="UOL" height="20" width="20" src="https://user-images.githubusercontent.com/104440384/214584734-789f5402-5283-40cc-8caa-63f29bb498c2.png">
+Estou participando do programa de Estágio em **AWS Cloud Data Engineering** da **CompassUOL** <img alt="UOL" height="20" width="20" src="https://user-images.githubusercontent.com/104440384/214584734-789f5402-5283-40cc-8caa-63f29bb498c2.png">
 <br>integrando a SQUAD #3: CLOUDS :cloud:
 
 :city_sunset: Moro em Goiânia-GO, no centro-oeste do Brasil<br>
@@ -36,6 +35,7 @@ Grace Hopper*
   <img align="center" alt="Nati-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214584934-2d91da15-143b-460f-82ce-ee3566d63349.png">
   <img align="center" alt="Nati-CSS" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214584940-7211657c-6d0a-45f5-855a-898647e7b6aa.png">
   <img align="center" alt="Nati-Js" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214586350-8d97910e-c432-4396-aa91-706c3c1a8810.png">
+  <img align="center" alt="SQL" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/218635686-f8b56c01-19dd-451e-b787-4ab7d2e9fed2.png">
   <img align="center" alt="Python" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214360489-b5abd1ed-3612-448f-86d0-d934dff813ab.png">
   <img align="center" alt="Apache Spark" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214586357-b26325ee-5a40-4b24-96af-0b5cd5d8d4d5.png">
   <img align="center" alt="CloudAWS" height="25" width="30" src="https://user-images.githubusercontent.com/104440384/214564965-7f15743f-147a-428a-b84e-068578c5752c.png">
