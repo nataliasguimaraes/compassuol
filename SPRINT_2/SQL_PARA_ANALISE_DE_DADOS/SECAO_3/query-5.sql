@@ -1,4 +1,4 @@
---Apresente a query para listar o nome dos autores que publicaram livros através de editoras
+--5 Apresente a query para listar o nome dos autores que publicaram livros através de editoras
 --NÃO situadas na região sul do Brasil.
 --Ordene o resultado pela coluna nome, em ordem crescente.
 
