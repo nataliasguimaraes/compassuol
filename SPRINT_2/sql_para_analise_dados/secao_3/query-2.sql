@@ -3,5 +3,5 @@
 --Atenção às colunas esperadas no resultado final:  titulo, valor.
 
 select titulo, valor from livro
-order by valor DESC
-LIMIT 10
+order by valor desc
+limit 10
