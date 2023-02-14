@@ -1,12 +1,22 @@
 ## Oii, eu sou a Natália Guimarães, uma Desenvolvedora de Software em formação!
 
+
+
 Estou participando pro programa de Estágio em **AWS Cloud Data Engineering** da **CompassUOL** <img alt="UOL" height="20" width="20" src="https://user-images.githubusercontent.com/104440384/214584734-789f5402-5283-40cc-8caa-63f29bb498c2.png">
 <br>integrando a SQUAD #3: CLOUDS :cloud:
+
+:city_sunset: Moro em Goiânia-GO, no centro-oeste do Brasil<br>
+:mortar_board: Sou graduada em Direito pela UFG (2016), e estou cursando o 3º semestre de Sistemas para Internet na UNICESUMAR<br>
+:computer: Essa é a minha primeira experiência na área da tecnologia e eu estou muito feliz por isso!:relaxed:<br>
+:purple_heart: Além da tecnologia, meus hobbies são cozinhar e fazer pequenas reformas (diy) em móveis e em casa,<br>
+tudo isso, acompanhado, claro, de uma excelente [trilha sonora](https://www.youtube.com/watch?v=kXYiU_JCYtU&ab_channel=LinkinPark)! :headphones::star2:
+
+<br>
 
 Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvimento:
 
 - [X] #Sprint 1 - Metodologia Ágil, Segurança, Git e Linux (18/01 a 31/01)
-- [ ] #Sprint 2 - SQL e Conceitos usados na área de dados (01/02 a 14/02)
+- [X] #Sprint 2 - SQL e Conceitos usados na área de dados (01/02 a 14/02)
 - [ ] #Sprint 3 - Python (15/02 a 28/02)
 - [ ] #Sprint 4 - Python Funcional, Containers e ML (01/03 a 14/03)
 - [ ] #Sprint 5 - Computação em Nuvem (AWS) (15/03 a 28/03)
@@ -17,6 +27,9 @@ Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvime
 - [ ] #Sprint 10 - Visualização de dados (24/05 a 06/06)
 - [ ] Apresentação final
 
+> *"Um ser humano deve transformar informação em inteligência ou conhecimento.<br>
+Tendemos a esquecer que nenhum computador jamais fará uma nova pergunta"<br>
+Grace Hopper*
 
 #### :rocket: Linguagens, frameworks e ferramentas em aprendizado:
 <div>
