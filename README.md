@@ -26,9 +26,12 @@ Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvime
 - [ ] #Sprint 10 - Visualização de dados (24/05 a 06/06)
 - [ ] Apresentação final
 
-> *"Um ser humano deve transformar informação em inteligência ou conhecimento.<br>
+<br>
+
+<p align="right"><em>"Um ser humano deve transformar informação em inteligência ou conhecimento.<br>
 Tendemos a esquecer que nenhum computador jamais fará uma nova pergunta"<br>
-Grace Hopper*
+Grace Hopper<em>
+</p>
 
 #### :rocket: Linguagens, frameworks e ferramentas em aprendizado:
 <div>
