@@ -8,8 +8,9 @@ Monitor Antonio Alex de Souza
 <!------------------------------------SUMMARY-->
 <p align="center">
   <a href="https://github.com/nataliasguimaraes/compassuol/edit/main/sprint_2/sql_para_analise_dados/README.md#stacks">STACKS & TOOLS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/compassuol/edit/main/sprint_2/sql_para_analise_dados/README.md#-pontos-abordados-">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/compassuol/edit/main/sprint_2/sql_para_analise_dados/README.md#-pontos-abordados">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;
 
+#
 
  <!------------------------------------STACKS-->
 #### :rocket: STACKS & TOOLS:
@@ -21,27 +22,29 @@ Monitor Antonio Alex de Souza
  <a href="https://dbeaver.io/about/"><img  alt="DBeaver"  width="30" height="30" src="https://user-images.githubusercontent.com/104440384/218912441-645f23ca-b235-49e2-89eb-0340aa2f10ff.png"><a/>
  <a href="https://www.sqlite.org/about.html"><img  alt="SQlite"  width="30" height="30" src="https://user-images.githubusercontent.com/104440384/218912701-704fbb55-eb7d-4913-b3bc-69e8feacd840.png"><a/>      
      
-<hr>
-
+<br>
+ 
+  #
 <!------------------------------------PRODUCTION SKILLS-->
 
-## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/104440384/197401378-9a96dbaf-852f-430e-87e9-74934c9e10f3.png"> Pontos Abordados: <!---write here: learned concepts; -->
+#### 📚 PONTOS ABORDADOS
 
- * HTML
-  
-* CSS
-  * [`display`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/display) para especificar o tipo de caixa de renderização usada por um element;
-  * [`flex-direction`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family) para  definir como os itens flexíveis são colocados no contêiner;
-  * [`background-clip`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-align) para especificar se o fundo de um elemento, seja cor ou imagem, se extende debaixo de sua área de borda, preenchimento ou conteúdo;
-  * [`transform`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin) para modificar o espaço coordenado do modelo de formatação.
-    
-* JAVASCRIPT
-  * [`const`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family) para criar uma variável cujo o valor é fixo;
-  * [`let`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-align) para declarar uma variável local no escopo do bloco atual;
-  * [`function flipCard`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin) para criar uma nova função;
+* SQL
+  * [`criação e maninupação de tabelas`](https://www.w3schools.com/sql/sql_create_table.asp) criar e editar tabelas no database;
+  * [`sintaxes de consultas`](https://cloud.google.com/bigquery/docs/reference/legacy-sql?hl=pt-br#select-syntax) como select, from, where, group by, having, order by, limit;
+  * [`operadores aritméticos`](https://cloud.google.com/bigquery/docs/reference/legacy-sql?hl=pt-br#arithmeticoperators) para executar operações matemáticas;
+  * [`operadores de comparação`](https://cloud.google.com/bigquery/docs/reference/legacy-sql?hl=pt-br#comparisonfunctions) para comparar dois valores retornando 'true' or 'false';
+  * [`operadores lógicos`](https://cloud.google.com/bigquery/docs/reference/legacy-sql?hl=pt-br#logicfunctions) como and, or, not, betwen, like, ilie, is null para unir operações simples em uma composta;
+  * [`operações de conversão`](https://cloud.google.com/bigquery/docs/reference/legacy-sql?hl=pt-br#syntax-casting) para  definir como os itens flexíveis são colocados no contêiner;
+  * [`funções agregadas`](https://cloud.google.com/bigquery/docs/reference/legacy-sql?hl=pt-br#functions) como count, sum, min, max, avg para executar operações aritméticas nos registros de uma coluna;
+  * [`joins`](https://cloud.google.com/bigquery/docs/reference/legacy-sql?hl=pt-br#joins) para relacionar múltiplas tabelas;
+  * [`unions`](https://www.w3schools.com/sql/sql_union.asp) para combinar o resultado de dois ou mais selects;
+  * [`subqueries`](https://www.devmedia.com.br/trabalhando-com-subqueries/40134) para consultar dados de outras consultas;
+ <br>  Dentre outros...
+
+
    
-   
-   
+ <br>  
    
 <hr>
    
