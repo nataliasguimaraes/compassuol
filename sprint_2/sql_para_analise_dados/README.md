@@ -1,14 +1,15 @@
 # SPRINT#2: SQL PARA ANÁLISE DE DADOS
 
 <p align="right">
-Realizada entre 01/02 e 14/02/23<br>
+Realizada entre 01/02/23 e 14/02/23<br>
 Monitor Antonio Alex de Souza
 </p>
 
 <!------------------------------------SUMMARY-->
 <p align="center">
-  <a href="https://github.com/nataliasguimaraes/compassuol/edit/main/sprint_2/sql_para_analise_dados/README.md#stacks">STACKS & TOOLS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/compassuol/edit/main/sprint_2/sql_para_analise_dados/README.md#-pontos-abordados">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/nataliasguimaraes/compassuol/edit/main/sprint_2/sql_para_analise_dados/README.md#stacks">STACKS & TOOLS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/compassuol/edit/main/sprint_2/sql_para_analise_dados/README.md#-pontos-abordados">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/compassuol/edit/main/sprint_2/sql_para_analise_dados/README.md#-anota%C3%A7%C3%B5es-pessoais">ANOTAÇÕES PESSOAIS</a>&nbsp;&nbsp;&nbsp;
 
 #
 
@@ -27,7 +28,7 @@ Monitor Antonio Alex de Souza
   #
 <!------------------------------------PRODUCTION SKILLS-->
 
-#### 📚 PONTOS ABORDADOS
+#### 📚 PONTOS ABORDADOS:
 
 * SQL
   * [`criação e maninupação de tabelas`](https://www.w3schools.com/sql/sql_create_table.asp) criar e editar tabelas no database;
@@ -42,8 +43,12 @@ Monitor Antonio Alex de Souza
   * [`subqueries`](https://www.devmedia.com.br/trabalhando-com-subqueries/40134) para consultar dados de outras consultas;
  <br>  Dentre outros...
 
+#
+<!------------------------------------ANOTAÇÕES-->
+#### 📝 ANOTAÇÕES PESSOAIS:
 
-   
+   Caderno físico.
+
  <br>  
    
 <hr>
