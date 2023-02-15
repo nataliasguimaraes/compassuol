@@ -5,11 +5,13 @@ Realizada entre 15/02/23 e 28/02/23<br>
 Monitor Matheus de Oliveira Toledo
 </p>
 
+ README EM CONSTRUÇÃO
+
 <!------------------------------------SUMMARY-->
 <p align="center">
-<a href="https://github.com/nataliasguimaraes/compassuol/edit/main/sprint_2/README.md#rocket-stacks--tools">STACKS & TOOLS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/compassuol/edit/main/sprint_2/README.md#-pontos-abordados">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/compassuol/edit/main/sprint_2/README.md#-anota%C3%A7%C3%B5es-pessoais">ANOTAÇÕES PESSOAIS</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/nataliasguimaraes/compassuol/tree/main/sprint_3#rocket-stacks--tools">STACKS & TOOLS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/compassuol/edit/main/sprint_3/README.md#-pontos-abordados">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/compassuol/edit/main/sprint_3/README.md#-anota%C3%A7%C3%B5es-pessoais">ANOTAÇÕES PESSOAIS</a>&nbsp;&nbsp;&nbsp;
 
 #
 
