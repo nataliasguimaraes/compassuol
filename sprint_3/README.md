@@ -38,7 +38,7 @@ Monitor Matheus de Oliveira Toledo
 <!------------------------------------ANOTAÇÕES-->
 #### 📝 ANOTAÇÕES PESSOAIS:
 
-   * <a href="https://statuesque-mosquito-430.notion.site/Python-125a756b2d404d9e85545f14228ffb54">NOTION: PYTHON</a>
+   * <a href="https://www.notion.so/natycodes/Python-125a756b2d404d9e85545f14228ffb54">NOTION: PYTHON</a>
 
  <br>  
    
