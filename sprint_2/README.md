@@ -59,7 +59,7 @@ Monitor Antonio Alex de Souza
 #### 📝 ANOTAÇÕES PESSOAIS:
 
    * SQL: Caderno físico. 
-   * <a href="https://statuesque-mosquito-430.notion.site/Big-Data-Fundamentos-7a17f60c229e429fa86a55e31cc46778">NOTION: BANCO DE DADOS</a>
+   * <a href="https://natycodes.notion.site/Big-Data-Fundamentos-7a17f60c229e429fa86a55e31cc46778">NOTION: BANCO DE DADOS</a>
 
  <br>  
    
