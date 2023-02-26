@@ -39,7 +39,7 @@ Monitor Matheus de Oliveira Toledo
 #### 📝 ANOTAÇÕES PESSOAIS:
 
    * <a href="https://www.notion.so/natycodes/Python-125a756b2d404d9e85545f14228ffb54">NOTION: PYTHON</a>
-
+   * <a href="https://www.notion.so/natycodes/Python-POO-2da1af1c07704c038ff2257bdd35afa54">NOTION: POO</a>
  <br>  
    
 <hr>
