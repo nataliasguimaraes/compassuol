@@ -5,7 +5,6 @@ Realizada entre 15/02/23 e 28/02/23<br>
 Monitor Matheus de Oliveira Toledo
 </p>
 
- README EM CONSTRUÇÃO
 
 <!------------------------------------SUMMARY-->
 <p align="center">
@@ -28,8 +27,12 @@ Monitor Matheus de Oliveira Toledo
 
 #### 📚 PONTOS ABORDADOS:
 
-* PYTHON
-  * [`python`](https://developer.mozilla.org/en-US/docs/Glossary/Python) glossário;
+* PYTHON PARA ANÁLISE DE DADOS
+  * [`Funções`](https://docs.python.org/pt-br/3/library/functions.html) funções com retorno, parâmetro, parâmetro padrão, Docstrings, *args e **kwargs;
+  * [`Orientação a Objetos com Python`](https://docs.python.org/pt-br/3/library/dataclasses.html?highlight=classes#module-dataclasses) POO, classes, atributos, métodos, objetos, abstração e encapsulamento;
+  * [`Herança e Polimorfismo`](https://docs.python.org/pt-br/3/library/dataclasses.html?highlight=heran%C3%A7a) herança, propriedades, método super(), herança múltipla, MRO, polimorfismo, métodos mágicos;
+  * [`Manipulando arquivos CSV`](https://docs.python.org/pt-br/3/library/csv.html?highlight=csv#module-csv) [`e JSON`](https://docs.python.org/pt-br/3/library/json.html?highlight=json#module-json) lendo e escrevendo arquivos CSV, JSON e Pickle;
+  * [`Data e Hora`](https://docs.python.org/pt-br/3/library/datetime.html?highlight=data%20hora#module-datetime) manipulação, deltas e métodos de data e hora;
   [...]
  <br>  Dentre outros...
    
@@ -41,7 +44,7 @@ Monitor Matheus de Oliveira Toledo
    * <a href="https://natycodes.notion.site/Python-125a756b2d404d9e85545f14228ffb54">NOTION: PYTHON</a>
    * <a href="https://natycodes.notion.site/Python-POO-2da1af1c07704c038ff2257bdd35afa5">NOTION: POO</a>
  <br>  
-   
+  
 <hr>
    
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guimaraessnatalia@gmail.com)
