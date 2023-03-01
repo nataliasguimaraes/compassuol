@@ -27,13 +27,12 @@ Monitor Matheus de Oliveira Toledo
 
 #### 📚 PONTOS ABORDADOS:
 
-* PYTHON PARA ANÁLISE DE DADOS
-  * [`Funções`](https://docs.python.org/pt-br/3/library/functions.html) funções com retorno, parâmetro, parâmetro padrão, Docstrings, *args e **kwargs;
-  * [`Orientação a Objetos com Python`](https://docs.python.org/pt-br/3/library/dataclasses.html?highlight=classes#module-dataclasses) POO, classes, atributos, métodos, objetos, abstração e encapsulamento;
-  * [`Herança e Polimorfismo`](https://docs.python.org/pt-br/3/library/dataclasses.html?highlight=heran%C3%A7a) herança, propriedades, método super(), herança múltipla, MRO, polimorfismo, métodos mágicos;
-  * [`Manipulando arquivos CSV`](https://docs.python.org/pt-br/3/library/csv.html?highlight=csv#module-csv) [`e JSON`](https://docs.python.org/pt-br/3/library/json.html?highlight=json#module-json) lendo e escrevendo arquivos CSV, JSON e Pickle;
-  * [`Data e Hora`](https://docs.python.org/pt-br/3/library/datetime.html?highlight=data%20hora#module-datetime) manipulação, deltas e métodos de data e hora;
-  [...]
+PYTHON PARA ANÁLISE DE DADOS
+ * [`Funções`](https://docs.python.org/pt-br/3/library/functions.html) funções com retorno, parâmetro, parâmetro padrão, Docstrings, *args e **kwargs;
+ * [`Orientação a Objetos com Python`](https://docs.python.org/pt-br/3/library/dataclasses.html?highlight=classes#module-dataclasses) POO, classes, atributos, métodos, objetos, abstração e encapsulamento;
+ * [`Herança e Polimorfismo`](https://docs.python.org/pt-br/3/library/dataclasses.html?highlight=heran%C3%A7a) herança, propriedades, método super(), herança múltipla, MRO, polimorfismo, métodos mágicos;
+ * [`Manipulando arquivos CSV`](https://docs.python.org/pt-br/3/library/csv.html?highlight=csv#module-csv) [`e JSON`](https://docs.python.org/pt-br/3/library/json.html?highlight=json#module-json) lendo e escrevendo arquivos CSV, JSON e Pickle;
+ * [`Data e Hora`](https://docs.python.org/pt-br/3/library/datetime.html?highlight=data%20hora#module-datetime) manipulação, deltas e métodos de data e hora;
  <br>  Dentre outros...
    
 
