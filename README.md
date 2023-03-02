@@ -16,7 +16,7 @@ Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvime
 
 - [X] #Sprint 1 - Metodologia Ágil, Segurança, Git e Linux (18/01 a 31/01)
 - [X] #Sprint 2 - SQL e Conceitos usados na área de dados (01/02 a 14/02)
-- [ ] #Sprint 3 - Python (15/02 a 28/02)
+- [X] #Sprint 3 - Python (15/02 a 28/02)
 - [ ] #Sprint 4 - Python Funcional, Containers e ML (01/03 a 14/03)
 - [ ] #Sprint 5 - Computação em Nuvem (AWS) (15/03 a 28/03)
 - [ ] #Sprint 6 - Computação em Nuvem (AWS) (29/03 a 11/04)
