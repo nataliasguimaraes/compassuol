@@ -32,4 +32,4 @@ with open('./actors.csv') as file:
         countAtual = 0
         
   
-    print(f'Nome do filme: {noRepetaMovie[indiceMaiorNumFilme]}. Frequência: {frequenciaFilmes[indiceMaiorNumFilme]}')
+    print(f'O nome do filme mais frequente é: {noRepetaMovie[indiceMaiorNumFilme]}. Frequência: {frequenciaFilmes[indiceMaiorNumFilme]}.')

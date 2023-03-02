@@ -14,4 +14,4 @@ with open('./actors.csv') as file:
      if(maiorAveragePerMovie<averagePerMovie):
        nomeAtor= elementos['Actor']
        maiorAveragePerMovie=averagePerMovie
-    print(f'O ator/atriz com maior número de filmes é {nomeAtor} com {maiorAveragePerMovie} filmes.')
+    print(f'O ator/atriz com maior média por filmes é {nomeAtor} com {maiorAveragePerMovie} filmes.')
