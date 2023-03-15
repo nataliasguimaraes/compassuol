@@ -1,0 +1,40 @@
+PS D:\Desktop\UOL\projetos_compass\sprint_4\docker\desafio_docker> docker build -t cargurupy-img .
+[+] Building 23.1s (9/9) FINISHED
+ => [internal] load build definition from Dockerfile                                                                                                              0.0s
+ => => transferring dockerfile: 156B                                                                                                                              0.0s
+ => [internal] load .dockerignore                                                                                                                                 0.0s
+ => => transferring context: 2B                                                                                                                                   0.0s
+ => [internal] load metadata for docker.io/library/python:latest                                                                                                  0.7s
+ => [internal] load build context                                                                                                                                 0.0s
+ => => transferring context: 186B                                                                                                                                 0.0s
+ => [1/4] FROM docker.io/library/python@sha256:1db68f83ca0d2735aeb804708cbc2b7be573ff4c236b2bbfa220bbac81512bb8                                                   0.0s
+ => CACHED [2/4] WORKDIR /app                                                                                                                                     0.0s
+ => [3/4] COPY . .                                                                                                                                                0.1s
+ => [4/4] RUN pip install --upgrade pip                                                                                                                          21.0s
+ => exporting to image                                                                                                                                            0.9s
+ => => exporting layers                                                                                                                                           0.7s
+ => => writing image sha256:40ceb12facf82527a49fa9a36cca5f3932f5524f6c32e81798510585ee9b2d4a                                                                      0.0s
+ => => naming to docker.io/library/cargurupy-img                                                                                                                  0.1s
+PS D:\Desktop\UOL\projetos_compass\sprint_4\docker\desafio_docker> docker images
+REPOSITORY                    TAG                  IMAGE ID       CREATED         SIZE
+cargurupy-img                 latest               40ceb12facf8   2 minutes ago   942MB
+PS D:\Desktop\UOL\projetos_compass\sprint_4\docker\desafio_docker> docker run cargurupy-img
+Você deve dirigir um Peugeot 2008
+PS D:\Desktop\UOL\projetos_compass\sprint_4\docker\desafio_docker> docker ps -a
+CONTAINER ID   IMAGE           COMMAND                  CREATED         STATUS                     PORTS                NAMES
+ade514606f0c   cargurupy-img   "python carguru.py"      7 minutes ago   Exited (0) 6 minutes ago                        dazzling_austin
+PS D:\Desktop\UOL\projetos_compass\sprint_4\docker\desafio_docker> docker start dazzling_austin
+dazzling_austin
+PS D:\Desktop\UOL\projetos_compass\sprint_4\docker\desafio_docker> docker stop dazzling_austin 
+dazzling_austin
+PS D:\Desktop\UOL\projetos_compass\sprint_4\docker\desafio_docker> docker ps    
+CONTAINER ID   IMAGE         COMMAND                  CREATED        STATUS        PORTS                NAMES
+506406d9710d   phpmessages   "docker-php-entrypoi…"   22 hours ago   Up 22 hours   0.0.0.0:80->80/tcp   phpmessages_containers
+PS D:\Desktop\UOL\projetos_compass\sprint_4\docker\desafio_docker> docker ps -a 
+CONTAINER ID   IMAGE           COMMAND                  CREATED          STATUS                      PORTS                NAMES
+ade514606f0c   cargurupy-img   "python carguru.py"      12 minutes ago   Exited (0) 35 seconds ago                        dazzling_austin
+PS D:\Desktop\UOL\projetos_compass\sprint_4\docker\desafio_docker> docker start ade514606f0c   
+ade514606f0c
+PS D:\Desktop\UOL\projetos_compass\sprint_4\docker\desafio_docker> docker stop dazzling_austin 
+dazzling_austin
+PS D:\Desktop\UOL\projetos_compass\sprint_4\docker\desafio_docker> 
