@@ -28,22 +28,37 @@ Rodrigo dos Santos Guimarães
 #### 📚 PONTOS ABORDADOS:
 
 PROGRAMAÇÃO FUNCIONAL
- * [`Programação Funcional`](#LINK#) descrição...
+ * [`Programação Funcional`](https://www.alura.com.br/artigos/programacao-funcional-o-que-e) Programação de forma declarativa. Utilização de funções que evitam efeitos colaterais (imutabilidade). Códigos mais limpos e objetivos que facilitam manutenção e novas implementações.
 
- PYTHON FUNCIONAL
- * [`Programação Funcional`](#LINK#) descrição...
+PYTHON FUNCIONAL
+ * [`Linguagem funcional`](https://github.com/dunossauro/python-funcional/blob/master/roteiros/00_introducao.md) Funções como objetos de primeira classe, funções de ordem superior e funções puras. Recursão. Foco em processamento de iteráveis. Legibilidade. Lazy evaluation.
+ * [`HOFS`](https://dunossauro.github.io/python-funcional/roteiros/05_hofs.html) Funções de ordem superior: map(), max(), min(), iter(), sorted(), filter();
+ * [`Lambda`](https://docs.python.org/3/reference/expressions.html) Funções anônimas que podem ser declaradas em qualquer contexto que podem ser atribuídas a variáveis;
+ * [`Iteráveis e Iteradores`](https://pythonclub.com.br/progrmacao-funcional-com-python-2.html) __getitem__, __iter__;
+ * [`Funções de redução e mapeamento`](https://github.com/dunossauro/python-funcional/issues/17) any(), all(), len(), sum(), zip(), enumerate(), map(), reversed();
+ * [`Funções geradoras`](https://github.com/dunossauro/python-funcional/blob/master/roteiros/06_funcoes_geradoras_e_hofs_p2.md) yield
     
  DOCKER PARA DESENVOLVEDORES
- * [`Programação Funcional`](#LINK#) descrição...
+  * [`Containers`](link)
+  * [`Imagens`](link)
+  * [`Volumes`](link)
+  * [`Networks`](link)
+  * [`YAML`](link) 
+  * [`Docker Compose`](link) 
+  * [`Docker Swarm`](link) 
+  * [`Kubernetes`](link)
     
- ESTATÍSTICA DESCRITIVA
- * [`Programação Funcional`](#LINK#) descrição...
-
+ ESTATÍSTICA DESCRITIVA COM PYTHON
+  * [`Fundamentos`](link)
+  * [`Representaçõe gráficas`](link)
+  * [`MTC`](link)
+  * [`MA`](link)
+  * [`Aplicações em Data Science`](link)
 #
 <!------------------------------------ANOTAÇÕES-->
 #### 📝 ANOTAÇÕES PESSOAIS:
 
-   * <a href="#">NOTION: DOCKER</a>
+   * <a href="https://natycodes.notion.site/Docker-para-Desenvolvedores-com-Docker-Swarm-e-Kubernetes-Resumo-de-comandos-ce2228fe3a454fb497fe6b25516adde4">NOTION: DOCKER</a>
  <br>  
   
 <hr>
