@@ -14,3 +14,17 @@ round
 map
 sorted
 """
+import csv
+
+with open('estudantes.csv', newline='') as arquivo:
+    reader = csv.reader(arquivo)
+
+    estudantes = list(map(lambda x: (x[0], sorted(map(float, x[1:]), reverse=True)[:3]), reader))
+
+estudantes_ordenados = sorted(estudantes, key=lambda x: x[0])
+
+estudantes_formatados = list(map(lambda x: f"Nome: {x[0]} Notas: {[int(nota) for nota in x[1]]} Média: {(round(sum(x[1])/3, 2))}", estudantes_ordenados))
+
+relatorio = '\n'.join(estudantes_formatados)
+
+print(relatorio)
