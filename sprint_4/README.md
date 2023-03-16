@@ -40,18 +40,18 @@ PYTHON FUNCIONAL
  * [`Funções geradoras`](https://github.com/dunossauro/python-funcional/blob/master/roteiros/06_funcoes_geradoras_e_hofs_p2.md) yield
     
  DOCKER PARA DESENVOLVEDORES
-  * [`Containers`](link)
-  * [`Imagens`](link)
-  * [`Volumes`](link)
-  * [`Networks`](link)
-  * [`YAML`](link) 
-  * [`Docker Compose`](link) 
-  * [`Docker Swarm`](link) 
-  * [`Kubernetes`](link)
+  * [`Containers`](https://docker.rafaeldutra.me/beginner/commands/rodando-container/) Criação, imagens, gerenciamento e manipulação;
+  * [`Imagens`](https://docker.rafaeldutra.me/beginner/commands/utilizando-imagens/) representação estática do aplicativo, serviço, aplicação e dependências; 
+  * [`Volumes`](https://docker.rafaeldutra.me/beginner/volumes/) diretórios externos aos containers;
+  * [`Networks`](https://medium.com/dockerbr/docker-trabalhando-com-network-64d0bf66263f) redes;
+  * [`YAML`](https://blog.4linux.com.br/docker-compose-explicado/) linguagem de serialização de dados;
+  * [`Docker Compose`](https://docker.rafaeldutra.me/beginner/docker-compose/) declaraçãõ de múltiplos containers;
+  * [`Docker Swarm`](https://imasters.com.br/desenvolvimento/vamos-conhecer-o-docker-swarm) orquestração de containers e clustering nativo;
+  * [`Kubernetes`](https://kubernetes.io/pt-br/docs/concepts/overview/what-is-kubernetes/) execução e gerenciamento de containers.
     
  ESTATÍSTICA DESCRITIVA COM PYTHON
-  * [`Fundamentos`](link)
-  * [`Representaçõe gráficas`](link)
+  * [`Fundamentos`]
+  * [`Representações gráficas`](link)
   * [`MTC`](link)
   * [`MA`](link)
   * [`Aplicações em Data Science`](link)
