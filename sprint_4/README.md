@@ -5,7 +5,7 @@ Realizada entre 01/03/23 e 14/03/23<br>
 Rodrigo dos Santos Guimarães
 </p>
 
-Sabemos que a Linguagem Python suporta expressar algoritmos em diferentes paradigmas, sendo um deles o Paradigma Funcional. Nesta Sprint você irá aprender alguns importantes conceitos de programação funcional, além de adentrar ao mundo dos containers com Docker e Kubernetes. Também daremos início à exploração do fascinante mundo da Aprendizagem de Máquina (Machine Learning).
+A Linguagem Python suporta expressar algoritmos em diferentes paradigmas, sendo um deles o Paradigma Funcional. Nesta Sprint aprendemos alguns importantes conceitos de programação funcional, além de adentrar ao mundo dos containers com Docker e Kubernetes. Também demos início à exploração do mundo da Machine Learning.
 
 
 <!------------------------------------SUMMARY-->
