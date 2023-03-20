@@ -14,10 +14,9 @@ Além defundamentação teórica, foram estudados conteúdos voltados às acredi
 
 <!------------------------------------SUMMARY-->
 <p align="center">
-<a href="https://github.com/nataliasguimaraes/compassuol/tree/main/sprint_5#rocket-stacks--tools">STACKS & TOOLS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_5/README.md#-pontos-abordados">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_5/README.md#-pontos-abordados">ANOTAÇÕES PESSOAIS</a>&nbsp;&nbsp;&nbsp;
-
+<a href="https://github.com/nataliasguimaraes/compassuol/tree/main/sprint_5/certificados#rocket-stacks--tools">STACKS & TOOLS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/compassuol/tree/main/sprint_5/certificados#rocket-stacks--tools">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/compassuol/tree/main/sprint_5/certificados#rocket-stacks--tools">ANOTAÇÕES PESSOAIS</a>&nbsp;&nbsp;&nbsp;
 
 
  <!------------------------------------STACKS-->
