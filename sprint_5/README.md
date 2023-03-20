@@ -52,9 +52,9 @@ AWS EXAM PREP
 <!------------------------------------ANOTAÇÕES-->
 #### 📝 ANOTAÇÕES PESSOAIS:
 
-   * <a href="https://www.notion.so/natycodes/AWS-Sales-Accreditation-Portuguese-Brazil-ce19635e99554f66a9eccee2be9e5837">NOTION: AWS Sales Accreditation</a>
-   * <a href="https://www.notion.so/natycodes/AWS-Technical-Accreditation-Portuguese-Brazil-8296ec90039642d59cf5bd1bb14735b5">NOTION: AWS Technical Accreditation</a>
-   * <a href="https://www.notion.so/natycodes/AWS-Cloud-Economics-Accreditation-Portuguese-Brazil-49a1b232bffe4b7a86c70e77d63c206b)">NOTION: AWS Cloud Economics</a>
+   * <a href="https://natycodes.notion.site/AWS-Sales-Accreditation-Portuguese-Brazil-ce19635e99554f66a9eccee2be9e5837">NOTION: AWS Sales Accreditation</a>
+   * <a href="https://natycodes.notion.site/AWS-Technical-Accreditation-Portuguese-Brazil-8296ec90039642d59cf5bd1bb14735b5">NOTION: AWS Technical Accreditation</a>
+   * <a href="https://natycodes.notion.site/AWS-Cloud-Economics-Accreditation-Portuguese-Brazil-49a1b232bffe4b7a86c70e77d63c206b">NOTION: AWS Cloud Economics</a>
    * <a href="LINK">NOTION: AWS Cloud Quest</a>
    * <a href="LINK">NOTION: AWS Exam Prep</a>    
  <br>  
