@@ -31,22 +31,15 @@ Além defundamentação teórica, foram estudados conteúdos voltados às acredi
 #### 📚 PONTOS ABORDADOS:
 
 
- * [`Programação Funcional`](https://www.alura.com.br/artigos/programacao-funcional-o-que-e) Programação de forma declarativa. Utilização de funções que evitam efeitos colaterais (imutabilidade). Códigos mais limpos e objetivos que facilitam manutenção e novas implementações.
-
-AWS SALES ACCREDITATION
- * [`Descrição`](LINK) Descrição...
+* [`AWS SALES ACCREDITATION](https://explore.skillbuilder.aws/learn/course/13660/aws-partner-sales-accreditation-business-portuguese) Conceitos básicos dos serviços de nuvem, proposta de valor da AWS aos clientes e objeções.
+ 
+ * [AWS TECHNICAL ACCREDITATION](https://explore.skillbuilder.aws/learn/course/13246/aws-partner-accreditation-technical-portuguese) Introdução às tecnologias essenciais, serviços e soluções, recursos de rede de parceiros.
     
-AWS TECHNICAL ACCREDITATION
- * [`Descrição`](LINK) Descrição...
+ * [`AWS CLOUD ECONOMICS`](https://explore.skillbuilder.aws/learn/course/2444/aws-partner-cloud-economics-accreditation-portuguese) Introdução ao Business Value, Cost savings, produtividade da equipe, resiliência operacional, agilidade de negócio, dentre outros.
     
-AWS CLOUD ECONOMICS
- * [`Descrição`](LINK) Descrição...
+ * [`AWS CLOUD QUEST`](https://explore.skillbuilder.aws/learn/course/11458/aws-cloud-quest-cloud-practitioner) Introdução à prática de crição de soluções básicas na nuvem usando os serviços AWS.
     
-AWS CLOUD QUEST
- * [`Descrição`](LINK) Descrição...
-    
-AWS EXAM PREP
- * [`Descrição`](LINK) Descrição...    
+ * [`AWS EXAM PREP`](https://explore.skillbuilder.aws/learn/course/13551/exam-prep-aws-certified-cloud-practitioner-portuguese) Conceitos da nuvem, seegurança e conformidade, tecnologia e faturamento e preços.
 
 #
 <!------------------------------------ANOTAÇÕES-->
@@ -55,8 +48,8 @@ AWS EXAM PREP
    * <a href="https://natycodes.notion.site/AWS-Sales-Accreditation-Portuguese-Brazil-ce19635e99554f66a9eccee2be9e5837">NOTION: AWS Sales Accreditation</a>
    * <a href="https://natycodes.notion.site/AWS-Technical-Accreditation-Portuguese-Brazil-8296ec90039642d59cf5bd1bb14735b5">NOTION: AWS Technical Accreditation</a>
    * <a href="https://natycodes.notion.site/AWS-Cloud-Economics-Accreditation-Portuguese-Brazil-49a1b232bffe4b7a86c70e77d63c206b">NOTION: AWS Cloud Economics</a>
-   * <a href="LINK">NOTION: AWS Cloud Quest</a>
-   * <a href="LINK">NOTION: AWS Exam Prep</a>    
+   * <a href="https://natycodes.notion.site/AWS-Cloud-Quest-Cloud-Practitioner-080e0a493c1f447ca43eaa89281bd9d7">NOTION: AWS Cloud Quest</a>
+   * <a href="https://natycodes.notion.site/AWS-Cloud-Practitioner-Foundation-Exam-Prep-e960f98e55f94bc0bedf47f07f29ad6f">NOTION: AWS Exam Prep</a>    
  <br>  
   
 <hr>
