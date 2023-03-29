@@ -29,8 +29,6 @@ Essa sprint trabalha os desafios de processar e gerir a grande variedade, volume
 #### 📚 PONTOS ABORDADOS:
 
 
- * [`Programação Funcional`](https://www.alura.com.br/artigos/programacao-funcional-o-que-e) Programação de forma declarativa. Utilização de funções que evitam efeitos colaterais (imutabilidade). Códigos mais limpos e objetivos que facilitam manutenção e novas implementações.
-
 AWS SALES ACCREDITATION
  * [`Descrição`](LINK) Descrição...
     
