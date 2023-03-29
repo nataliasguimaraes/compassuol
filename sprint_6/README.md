@@ -1,7 +1,7 @@
 ## SPRINT#6: COMPUTAÇÃO EM NUVEM AWS
 
 <p align="right">
-Realizada entre 15/03/23 e 28/03/23<br>
+Realizada entre 29/03/23 e 11/04/23<br>
 Aime Giovanna Pereira
 </p>
 
