@@ -31,9 +31,9 @@ Além defundamentação teórica, foram estudados conteúdos voltados às acredi
 #### 📚 PONTOS ABORDADOS:
 
 
-* [`AWS SALES ACCREDITATION](https://explore.skillbuilder.aws/learn/course/13660/aws-partner-sales-accreditation-business-portuguese) Conceitos básicos dos serviços de nuvem, proposta de valor da AWS aos clientes e objeções.
+* [`AWS SALES ACCREDITATION`](https://explore.skillbuilder.aws/learn/course/13660/aws-partner-sales-accreditation-business-portuguese) Conceitos básicos dos serviços de nuvem, proposta de valor da AWS aos clientes e objeções.
  
- * [AWS TECHNICAL ACCREDITATION](https://explore.skillbuilder.aws/learn/course/13246/aws-partner-accreditation-technical-portuguese) Introdução às tecnologias essenciais, serviços e soluções, recursos de rede de parceiros.
+ * [AWS TECHNICAL ACCREDITATION`](https://explore.skillbuilder.aws/learn/course/13246/aws-partner-accreditation-technical-portuguese) Introdução às tecnologias essenciais, serviços e soluções, recursos de rede de parceiros.
     
  * [`AWS CLOUD ECONOMICS`](https://explore.skillbuilder.aws/learn/course/2444/aws-partner-cloud-economics-accreditation-portuguese) Introdução ao Business Value, Cost savings, produtividade da equipe, resiliência operacional, agilidade de negócio, dentre outros.
     
