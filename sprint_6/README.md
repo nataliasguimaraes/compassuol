@@ -7,14 +7,7 @@ Aime Giovanna Pereira
 
 README EM CONSTRUÇÃO!
 
-
-Além dos desafios de armazenamento, temos muitos outros desafios na perspectiva do processamento.
-Sendo necessário processá-los (pois o valor dos dados armazenados se expressa nas informações e conhecimentos que deles inferimos),
-como fazê-lo dentro das restrições de tempo impostas, que muitas vezes são de tempo real?
-Como governar todos os ativos de dados, garantido regras rígidas de acesso, mas, ao mesmo tempo,
-facilitando o consumo dos times? Como ser elástico às demandas variáveis de processamento? Como entregar valor rapidamente ao cliente?
-Bem, para responder a cada uma destas perguntas (e outras mais), a AWS oferece serviços de Data & Analytics.
-É parte de nossas atribuições, enquanto especialista de dados, conhecê-los para orientar a construção das melhores soluções de dados na nuvem.
+Essa sprint trabalha os desafios de processar e gerir a grande variedade, volume e velocidade de dados, incluindo restrições de tempo, regras de acesso, elasticidade e entrega de valor ao cliente. A AWS oferece serviços de Data & Analytics para ajudar a resolver esses desafios e é responsabilidade do especialista em dados conhecer e construir as melhores soluções de dados na nuvem com estes serviços.
 
 
 <!------------------------------------SUMMARY-->
