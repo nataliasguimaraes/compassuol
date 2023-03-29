@@ -5,8 +5,6 @@ Realizada entre 15/03/23 e 28/03/23<br>
 Evandro de Assis Rosa
 </p>
 
-README EM CONSTRUÇÃO!
-
 
 Conhecimento sobre os fundamentos de Computação em Nuvem utilizando a Amazon Web Services como nosso ambiente de trabalho.
 Além defundamentação teórica, foram estudados conteúdos voltados às acreditações AWS e preparação para Certificação Cloud Practitioner (introdutória).
