@@ -30,29 +30,18 @@ Essa sprint trabalha os desafios de processar e gerir a grande variedade, volume
 #### 📚 PONTOS ABORDADOS:
 
 
-Data Analytics Fundamentals
- * [`Descrição`](LINK) Descrição...
-    
-Data Analytics on AWS
- * [`Descrição`](LINK) Descrição...
-    
-Amazon Kinesis
- * [`Descrição`](LINK) Descrição...
-    
-Introduction to Amazon Elastic MapReduce (EMR)
- * [`Descrição`](LINK) Descrição...
-    
-Introduction to Amazon Athena
- * [`Descrição`](LINK) Descrição...
-    
-Introduction to Amazon Elastic MapReduce (EMR)
- * [`Descrição`](LINK) Descrição...
-    
-Introduction to Amazon Athena
- * [`Descrição`](LINK) Descrição... 
-    
-Introduction to Amazon QuickSight
- * [`Descrição`](LINK) Descrição...
+AMAZON AWS
+ * [`Data Analytics Fundamentals`](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/570/data-analytics-fundamentals-portuguese) Introdução a soluções de avaliação de dados.
+ * [`Data Analytics on AWS`](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/8278/aws-partner-data-analytics-on-aws-business-portuguese) Oportunidades de mercado AWS e oluções de Análise de dados na AWS.
+ * [`Amazon Kinesis'](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/157/introduction-to-amazon-kinesis-streams) Amazon Kinesis Streams e Analytics para processamento e análisa de dados de streaming em tempo real.
+ * [`Introduction to Amazon Elastic MapReduce (EMR)`](https://explore.skillbuilder.aws/learn/course/4653/play/45386/introduction-to-amazon-elastic-mapreduce-emr-portuguese) para executar e dimensionar clusters do Hadoop no ambiente da AWS.
+ * [`Introduction to Amazon Athena`](https://explore.skillbuilder.aws/learn/course/5838/play/18980/introduction-to-amazon-athena-portuguese) serviço serverless usado para executar consultas SQL em arquivos delimitados pelo S3, sem necessidade de uma instalação do banco de dados. 
+ * [`Introduction to Amazon QuickSight`](https://explore.skillbuilder.aws/learn/course/1894/play/47713/introduction-to-amazon-quicksight-portuguese) ferramenta de business inteligence que permite analisar grandes quantidade de dados de várias fontes, entendê-los rapidamente e apresentá-los aos usuários finais em painéis dinâmicos fáceis de usar
+ * [`Introduction to AWS IoT Analytics`](https://explore.skillbuilder.aws/learn/course/153/play/465/introduction-to-aws-iot-analytics) serviço para ingerir dados massivos de IoT que os clientes precisam processar em escala. É um serviço de análise totalmente gerenciado que processa, enriquece, armazena, analisa e visualiza os dados.
+ * [`Amazon Redshift`](https://explore.skillbuilder.aws/learn/course/13655/play/56967/getting-started-with-amazon-redshift) Intrdução e best practices ao Amazon Redshift, que é um serviço de data warehouse colunar totalmente gerenciado na nuvem. Você pode usá-lo para executar consultas analíticas complexas em grandes conjuntos de dados por meio da tecnologia de processamento paralelo massivo (MPP).
+ * [`Deep Dive into Concepts and Tools for Analyzing Straming Data`](https://explore.skillbuilder.aws/learn/course/6449/play/20361/deep-dive-into-concepts-and-tools-for-analyzing-streaming-data-portuguese) Conceitos básicos de processamento de streaming e discutiremos as estratégias que são comumente usadas para enfrentar os desafios decorrentes da consulta de dados de streaming.
+ * [`Serverless Analytics`](https://explore.skillbuilder.aws/learn/course/6256/Serverless%2520Analytics%2520%28Portuguese%29) Consideração de clientes em relação ao desafio de sintetizar dados dos diferentes sistemas.
+ * [`Why Analytics for Games`](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/5716/Why-Analytics-for-Games-Portuguese-) benefícios da análise nos casos de uso de jogos. 
     
 Introduction to AWS IoT Analytics
  * [`Descrição`](LINK) Descrição...
