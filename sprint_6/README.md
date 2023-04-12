@@ -5,8 +5,6 @@ Realizada entre 29/03/23 e 11/04/23<br>
 Aime Giovanna Pereira
 </p>
 
-README EM CONSTRUÇÃO!
-
 Essa sprint trabalha os desafios de processar e gerir a grande variedade, volume e velocidade de dados, incluindo restrições de tempo, regras de acesso, elasticidade e entrega de valor ao cliente. A AWS oferece serviços de Data & Analytics para ajudar a resolver esses desafios e é responsabilidade do especialista em dados conhecer e construir as melhores soluções de dados na nuvem com estes serviços.
 
 
@@ -42,21 +40,7 @@ AMAZON AWS
  * [`Deep Dive into Concepts and Tools for Analyzing Straming Data`](https://explore.skillbuilder.aws/learn/course/6449/play/20361/deep-dive-into-concepts-and-tools-for-analyzing-streaming-data-portuguese) Conceitos básicos de processamento de streaming e discutiremos as estratégias que são comumente usadas para enfrentar os desafios decorrentes da consulta de dados de streaming.
  * [`Serverless Analytics`](https://explore.skillbuilder.aws/learn/course/6256/Serverless%2520Analytics%2520%28Portuguese%29) Consideração de clientes em relação ao desafio de sintetizar dados dos diferentes sistemas.
  * [`Why Analytics for Games`](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/5716/Why-Analytics-for-Games-Portuguese-) benefícios da análise nos casos de uso de jogos. 
-    
-Introduction to AWS IoT Analytics
- * [`Descrição`](LINK) Descrição...
-    
-Introduction to Amazon Redshift
- * [`Descrição`](LINK) Descrição...
-    
-Deep Dive into Concepts and Tools for Analyzing Straming Data
- * [`Descrição`](LINK) Descrição...   
-    
-Serverless Analytics
- * [`Descrição`](LINK) Descrição...   
-    
-Why Analytics for Games
- * [`Descrição`](LINK) Descrição...       
+
 #
 <!------------------------------------ANOTAÇÕES-->
 #### 📝 ANOTAÇÕES PESSOAIS:
