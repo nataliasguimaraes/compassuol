@@ -19,7 +19,7 @@ Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvime
 - [X] #Sprint 3 - Python (15/02 a 28/02)
 - [X] #Sprint 4 - Python Funcional, Containers e ML (01/03 a 14/03)
 - [X] #Sprint 5 - Computação em Nuvem (AWS) (15/03 a 28/03)
-- [ ] #Sprint 6 - Computação em Nuvem (AWS) (29/03 a 11/04)
+- [X] #Sprint 6 - Computação em Nuvem (AWS) (29/03 a 11/04)
 - [ ] #Sprint 7 - Arquitetura LAMBDA / Apache Hadoop / Apache Spark (12/04 a 25/04)
 - [ ] #Sprint 8 - Apache Spark Batch (26/04 a 09/05)
 - [ ] #Sprint 9 - Apache Spark Streaming (10/05 a 23/05)
