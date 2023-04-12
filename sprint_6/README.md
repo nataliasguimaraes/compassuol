@@ -30,21 +30,44 @@ Essa sprint trabalha os desafios de processar e gerir a grande variedade, volume
 #### 📚 PONTOS ABORDADOS:
 
 
-AWS SALES ACCREDITATION
+Data Analytics Fundamentals
  * [`Descrição`](LINK) Descrição...
     
-AWS TECHNICAL ACCREDITATION
+Data Analytics on AWS
  * [`Descrição`](LINK) Descrição...
     
-AWS CLOUD ECONOMICS
+Amazon Kinesis
  * [`Descrição`](LINK) Descrição...
     
-AWS CLOUD QUEST
+Introduction to Amazon Elastic MapReduce (EMR)
  * [`Descrição`](LINK) Descrição...
     
-AWS EXAM PREP
- * [`Descrição`](LINK) Descrição...    
-
+Introduction to Amazon Athena
+ * [`Descrição`](LINK) Descrição...
+    
+Introduction to Amazon Elastic MapReduce (EMR)
+ * [`Descrição`](LINK) Descrição...
+    
+Introduction to Amazon Athena
+ * [`Descrição`](LINK) Descrição... 
+    
+Introduction to Amazon QuickSight
+ * [`Descrição`](LINK) Descrição...
+    
+Introduction to AWS IoT Analytics
+ * [`Descrição`](LINK) Descrição...
+    
+Introduction to Amazon Redshift
+ * [`Descrição`](LINK) Descrição...
+    
+Deep Dive into Concepts and Tools for Analyzing Straming Data
+ * [`Descrição`](LINK) Descrição...   
+    
+Serverless Analytics
+ * [`Descrição`](LINK) Descrição...   
+    
+Why Analytics for Games
+ * [`Descrição`](LINK) Descrição...       
 #
 <!------------------------------------ANOTAÇÕES-->
 #### 📝 ANOTAÇÕES PESSOAIS:
@@ -57,7 +80,7 @@ AWS EXAM PREP
    * <a href="https://natycodes.notion.site/Introduction-to-Amazon-QuickSight-68520f58f90447a19e5afa699f94adce">NOTION: Introduction to Amazon QuickSight/a>
    * <a href="https://natycodes.notion.site/Introduction-to-AWS-IoT-Analytics-32a4fe0be30c46ff86d72f90830e9caf">NOTION: Introduction to AWS IoT Analytics/a>* <a href="https://natycodes.notion.site/Amazon-Redshift-f95e5a868be845de82ee8300aaeb6724">NOTION: Amazon Redshift/
    * <a href="https://natycodes.notion.site/Deep-Dive-into-Concepts-and-Tools-for-Analyzing-Straming-Data-a996e3fbfd0445399ec639fbeeefe72a">NOTION: Deep Dive into Concepts and Tools for Analyzing Straming Data/a>
-   * <a href="hhttps://natycodes.notion.site/Serverless-Analytics-d722f79c3c974184b0e6c3d398afdef3b">NOTION: Serverless Analytics/a>
+   * <a href="https://natycodes.notion.site/Serverless-Analytics-d722f79c3c974184b0e6c3d398afdef3b">NOTION: Serverless Analytics/a>
    * <a href="https://natycodes.notion.site/Why-Analytics-for-Games-0601fbf9b3de414187c3f8d0738e23e4">NOTION: Why Analytics for Games/a>
  <br>  
   
