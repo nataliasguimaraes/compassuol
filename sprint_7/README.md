@@ -40,8 +40,9 @@ Hadoop e Map Reduce para Big data
 <!------------------------------------ANOTAÇÕES-->
 #### 📝 ANOTAÇÕES PESSOAIS:
 
+   * <a href="https://natycodes.notion.site/Arquitetura-Lambda-ETL-ELT-Bibliotecas-Python-NumPY-e-Pandas-a6e18f24205b4577bf34924315529e33">NOTION: Arquitetura Lambda, ETL/ELT, Bibliotecas Python NumPY e Pandas</a>
+   * <a href="https://natycodes.notion.site/Apache-Hadoop-e-Apache-Spark-203b08adb2d74be0991bac01aaeaeb8c">NOTION: Apache Hadoop e Apache Spark</a>
    * <a href="LINK">NOTION: ...</a>
-   
  <br>  
   
 <hr>
