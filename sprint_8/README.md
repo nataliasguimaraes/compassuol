@@ -2,7 +2,7 @@
 
 <p align="right">
 Realizada entre 26/04/23 e 09/05/23<br>
-Augusto Luiz da Costa Schnorr
+Mateus Presoto Balen
 </p>
 
 README EM CONSTRUÇÃO
