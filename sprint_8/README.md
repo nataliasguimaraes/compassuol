@@ -1,20 +1,19 @@
-## SPRINT#7: Arquitetura LAMBDA / Apache Hadoop / Apache Spark
+## SPRINT#8: Apache Spark Batch
 
 <p align="right">
-Realizada entre 12/04/23 e 25/04/23<br>
-Diego Antonio Lusa
+Realizada entre 26/04/23 e 09/05/23<br>
+Augusto Luiz da Costa Schnorr
 </p>
 
 README EM CONSTRUÇÃO
 
-Sprint voltada ao aprofundamento dos conhecimentos sobre o Apache Spark, com introdução ao funcionamento, laboratórios práticos, e início do desenvolvimento
-da primeira etapa do projeo final.
+Continuamos nossa jornada de conhecimento no framework Apache Spark, agregando novos temas de estudo. Neste momento, você aprenderá como utilizá-lo com alguns serviços da AWS para realizar o processamento de dados na nuvem. Também é momento para você desenvolver a segunda etapa do projeto final.
 
 <!------------------------------------SUMMARY-->
 <p align="center">
-<a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_7/README.md#rocket-stacks--tools">STACKS & TOOLS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_7/README.md#-pontos-abordados">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_7/README.md#-anota%C3%A7%C3%B5es-pessoais">ANOTAÇÕES PESSOAIS</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_8/README.md#rocket-stacks--tools">STACKS & TOOLS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_8/README.md#-pontos-abordados">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_8/README.md#-anota%C3%A7%C3%B5es-pessoais">ANOTAÇÕES PESSOAIS</a>&nbsp;&nbsp;&nbsp;
 
 
  <!------------------------------------STACKS-->
@@ -40,10 +39,7 @@ Hadoop e Map Reduce para Big data
 <!------------------------------------ANOTAÇÕES-->
 #### 📝 ANOTAÇÕES PESSOAIS:
 
-   * <a href="https://natycodes.notion.site/Arquitetura-Lambda-ETL-ELT-Bibliotecas-Python-NumPY-e-Pandas-a6e18f24205b4577bf34924315529e33">NOTION: Arquitetura Lambda, ETL/ELT, Bibliotecas Python NumPY e Pandas</a>
-   * <a href="https://natycodes.notion.site/Apache-Hadoop-e-Apache-Spark-203b08adb2d74be0991bac01aaeaeb8c">NOTION: Apache Hadoop e Apache Spark</a>
-   * <a href="https://natycodes.notion.site/2-Why-is-Big-Data-a-Big-Deal-b2883bb214814172811e1d7afdd0b973">NOTION: Hadoop, MapReduce for Big Data Problems</a>
-   * <a href="https://natycodes.notion.site/Forma-o-Spark-com-Pyspark-o-Curso-Completo-ca8743983dec40fba38210a59c54ffc7">NOTION: Formação Spark com Pyspark: o Curso Completo</a>
+   * <a href="LINK">NOTION: ...</a>
  <br>  
   
 <hr>
