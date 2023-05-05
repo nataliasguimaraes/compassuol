@@ -5,26 +5,34 @@ from datetime import datetime
 import pandas as pd
 
 from IPython.display import display
+page_number = 1
 
 api_key = "eafc064d0d3e2ece1e26a68dea78eafb"
-url = f"https://api.themoviedb.org/3/movie/top_rated?api_key={api_key}&language=pt-BR"
+genre_id = 10749
+url = f"https://api.themoviedb.org/3/discover/movie?api_key={api_key}&language=pt-BR&sort_by=popularity.desc&with_genres={genre_id}&page={page_number}"
 
 response = requests.get(url)
 data = response.json()
 
 filmes = []
 
-for movie in data['results']:
-    df = {'Titulo': movie['title'],
-'Data de lançamento': movie['release_date'],
-'Visão geral': movie['overview'],
-'Votos': movie['vote_count'],
-'Média de votos:': movie['vote_average']}
+#page_number = 1
 
-filmes.append(df)
+for movie in data['results']:
+    df = {
+        'Titulo': movie.get('title'),
+        'Data de lançamento': movie.get('release_date', ''),
+        'Visão geral': movie.get('overview'),
+        'Votos': movie.get('vote_count'),
+        'Média de votos': movie.get('vote_average'),
+        }
+    filmes.append(df)
+page_number += 1
 
 df = pd.DataFrame(filmes)
 display(df)
+
+
 #Conexão S3
 #bucket_name = 'seu_bucket'
 #storage_layer = 'Raw'
