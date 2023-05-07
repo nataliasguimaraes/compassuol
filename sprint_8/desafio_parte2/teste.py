@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 from IPython.display import display
 
-api_key = "eafc064d0d3e2ece1e26a68dea78eafb"
+api_key = "***"
 genre_id = 10749
 
 filmes = []
