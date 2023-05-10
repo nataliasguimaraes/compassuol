@@ -5,8 +5,6 @@ Realizada entre 26/04/23 e 09/05/23<br>
 Mateus Presoto Balen
 </p>
 
-README EM CONSTRUÇÃO
-
 Continuamos nossa jornada de conhecimento no framework Apache Spark, agregando novos temas de estudo. Neste momento, você aprenderá como utilizá-lo com alguns serviços da AWS para realizar o processamento de dados na nuvem. Também é momento para você desenvolver a segunda etapa do projeto final.
 
 <!------------------------------------SUMMARY-->
@@ -31,15 +29,22 @@ Continuamos nossa jornada de conhecimento no framework Apache Spark, agregando n
 #### 📚 PONTOS ABORDADOS:
 
 
-Hadoop e Map Reduce para Big data
- * [`Nome do curo`](LINK) descrição...
- 
+EXTRAÇÃO DE DADOS API VIA AWS
+ * [`Extração dados api TMDB`](https://developers.themoviedb.org/3/movies/get-movie-details) Ingestão de dados da API usando pandas e requests.
+    
+AWS
+ * [`AWS S3`](https://docs.aws.amazon.com/s3/index.html) Armazenamento de dados e libs em buckets da AWS S3 via boto3.
+ * [`AWS Lambda`](https://docs.aws.amazon.com/lambda/index.html) captura de dados na API, filtragem e persistência de dados via AWS Lambda.
+
+APACHE SPARK
+ * [`Pyspark`](https://spark.apache.org/docs/latest/api/python/) geração de dados para serem processados via framework Apache Spark.
+ * [`Spark SQL`](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/index.html) aplicação de recursos básicos de manipulação de dataframes através do framework Apache Spark.
 
 #
 <!------------------------------------ANOTAÇÕES-->
 #### 📝 ANOTAÇÕES PESSOAIS:
 
-   * <a href="LINK">NOTION: ...</a>
+Repositório GitHub.
  <br>  
   
 <hr>
