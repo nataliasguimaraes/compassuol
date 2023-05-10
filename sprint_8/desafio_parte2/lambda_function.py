@@ -21,7 +21,7 @@ def lambda_handler(event, context):
 
 #ITERATE FILTERED IDS WITH TMDB API
 
-    api_key = 'eafc064d0d3e2ece1e26a68dea78eafb'
+    api_key = '***'
     url_base = 'https://api.themoviedb.org/3/movie/{movie_id}?api_key={api_key}&language=pt-BR"'
 
     movies = []
@@ -39,7 +39,6 @@ def lambda_handler(event, context):
     file_name = 'tmdb_filtered_movies.json'
 
 # WRITE JSON DATA INTO AWS BUCKET
-#AQUI NAO COLOQUEI SESSION PORQUE ESTOU DENTRO DA AWS!
     s3 = boto3.resource('s3')
     bucket_name = 'natalias-s3-bucket'
     bucket_movies_directory = f'Raw/Local/JSON/Movies/{datetime.now().strftime("%Y/%m/%d")}/{file_name}'

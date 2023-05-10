@@ -9,7 +9,7 @@ df_filtered = df[df['genero'].isin(['Romance'])]
 filtered_ids = df_filtered['id'].tolist()[:100]
 
 
-api_key = 'eafc064d0d3e2ece1e26a68dea78eafb'
+api_key = '***'
 url_base = 'https://api.themoviedb.org/3/movie/{movie_id}?api_key={api_key}&language=pt-BR"'
 
 movies = []

@@ -1,5 +1,5 @@
 import boto3
-session = boto3.Session(profile_name="573862076861_AdministratorAccess",region_name="us-east-1")
+session = boto3.Session(profile_name="***_AdministratorAccess",region_name="us-east-1")
 s3 = boto3.resource('s3')
 s3.create_bucket(Bucket='natalias-s3-bucket')
 

@@ -12,7 +12,7 @@ df_filtered = df.loc[(df['anoLancamento'].dt.year >= 2000) & (df['genero'].isin(
 
 filtered_ids = list(set(df_filtered['id'].tolist()))
 
-api_key = 'eafc064d0d3e2ece1e26a68dea78eafb'
+api_key = '***'
 url_base = 'https://api.themoviedb.org/3/movie/{movie_id}?api_key={api_key}&language=pt-BR"'
 
 def fetch_movie_data(movie_id):
