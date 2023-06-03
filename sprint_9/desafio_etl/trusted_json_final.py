@@ -1,22 +1,28 @@
 import boto3
 from botocore.exceptions import ClientError
+from pyspark.context import SparkContext
+from awsglue.context import GlueContext
 from pyspark.sql import SparkSession
 
-# Crie a sessão Spark
-spark = SparkSession.builder.getOrCreate()
+# Crie o contexto Spark e Glue
+sc = SparkContext()
+glueContext = GlueContext(sc)
+spark = glueContext.spark_session
 
 # Caminho da pasta contendo os arquivos JSON de entrada
 json_folder = "s3://natalias-s3-bucket/Raw/Local/JSON/Movies/2023/05/09/"
 
 # Nome do bucket de saída
 output_bucket = "natalias-s3-bucket"
-output_folder = "Trusted/Parquet/Movies/JSON/"
 
 # Caminho de saída para os arquivos Parquet dentro do bucket
-movies_parquet_path = f"{output_folder}movies.parquet"
+output_folder = "Trusted/Parquet/Movies/JSON/"
 
-# Leia os arquivos JSON com esquema automatico
-movies_read = spark.read.json(json_folder, inferSchema=True)
+# Caminho completo para a pasta "trusted"
+trusted_folder = f"{output_folder}/trusted/"
+
+# Leia os arquivos JSON da pasta e inferir o esquema automaticamente
+json_files = spark.read.option("inferSchema", "true").json(json_folder)
 
 # Escreva os dados como Parquet no bucket de saída dentro da pasta "trusted"
-movies_read.coalesce(1).write.mode("overwrite").parquet(f"s3://{output_bucket}/{movies_parquet_path}")
+json_files.coalesce(1).write.mode("overwrite").parquet(f"s3://{output_bucket}/{output_folder}/")
