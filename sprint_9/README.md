@@ -4,6 +4,7 @@
 Realizada entre 10/05/23 e 26/03/23<br>
 Mateus Presotto Balen
 </p>
+</p>
 
 Quando processamos dados, precisamos armazená-los em estruturas bem elaboradas, que favorecem as consultas. Ou seja, devemos estar atentos a melhor forma de armazenamento pensando nos requisitos daqueles que farão uso dos dados, tanto na perspectiva do tempo quanto do volume. Mas, afinal, quais são tais estruturas? Quais são os benefícios e pontos de atenção a considerar?
 
