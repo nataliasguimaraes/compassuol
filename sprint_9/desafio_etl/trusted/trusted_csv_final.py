@@ -18,7 +18,9 @@ movies_parquet_path = f"{output_folder}movies.parquet"
 # Leia os dados CSV com esquema automatico
 movies_read = spark.read.option("header", True).option("sep", "|").option("inferSchema", True).csv(movies_csv_file)
 
-movies_cleaned = movies_read.na.drop()
+movies_read_final = movies_read.withColumnRenamed("tituloPincipal", "tituloPrincipal")
+
+movies_cleaned = movies_read_final.na.drop()
 
 # Escreva os dados como Parquet no bucket de saída
 movies_cleaned.coalesce(1).write.mode("overwrite").parquet(f"s3://{output_bucket}/{movies_parquet_path}")
