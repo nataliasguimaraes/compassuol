@@ -13,12 +13,12 @@ output_bucket = "natalias-s3-bucket"
 output_folder = "Trusted/Parquet/Movies/CSV/"
 
 # Caminho de saída para os arquivos Parquet dentro do bucket
-movies_parquet_path = f"{output_folder}movies.parquet"
+movies_parquet_path = f"{output_folder}trusted-movies-csv-imdb.parquet"
 
 # Leia os dados CSV com esquema automatico
 movies_read = spark.read.option("header", True).option("sep", "|").option("inferSchema", True).csv(movies_csv_file)
 
-movies_read_final = movies_read.withColumnRenamed("tituloPincipal", "tituloPrincipal")
+movies_read_final = movies_read.withColumnRenamed("tituloPincipal", "tituloPrincipal").withColumnRenamed("id", "id_IMDB")
 
 movies_cleaned = movies_read_final.na.drop()
 
