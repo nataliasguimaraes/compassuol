@@ -1,24 +1,28 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col
+import boto3
+session = boto3.Session(profile_name="***_AdministratorAccess",region_name="us-east-1")
+s3 = boto3.resource('s3')
 
 # Inicialize a sessão do Spark
 spark = SparkSession.builder.getOrCreate()
 
 # Leia os arquivos Parquet e crie os dataframes
-df_imdb = spark.read.parquet("natalias-s3-bucket/Trusted/Parquet/Movies/CSV/*")
-df_tmdb = spark.read.parquet("natalias-s3-bucket/Trusted/Parquet/Movies/JSON/*")
+df_imdb = spark.read.parquet("natalias-s3-bucket/Trusted/Parquet/Movies/CSV/")
+df_tmdb = spark.read.parquet("natalias-s3-bucket/Trusted/Parquet/Movies/JSON/")
 
-# Selecione as colunas necessárias do dataframe do IMDb
+# Selecione as colunas necessárias do dataframe do IMDB
 df_imdb = df_imdb.select(
-    col("id_imdb").alias("idImdb"),
+    col("id").alias("idImdb"),
     col("anolancamento").alias("anoLancamento"),
     col("genero").alias("genero"),
-    col("tituloprincipal").alias("tituloPrincipal")
+    col("tituloprincipal").alias("tituloPrincipal"),
+    col("notamedia").alias("notaMedia")
 )
 
-# Selecione as colunas necessárias do dataframe do TMDb
+# Selecione as colunas necessárias do dataframe do TMDB
 df_tmdb = df_tmdb.select(
-    col("id_tmdb").alias("idTmdb"),
+    col("id").alias("idTmdb"),
     col("popularity").alias("popularity"),
     col("vote_average").alias("voteAverage"),
     col("vote_count").alias("voteCount"),
@@ -31,7 +35,7 @@ df_fato_filmes = df_imdb.join(df_tmdb, "idImdb")
 # Crie a tabela DimensaoTmdb
 df_dimensao_tmdb = df_tmdb.select(
     col("idTmdb"),
-    col("genre_ids").alias("genres"),
+    col("genre_ids").alias("generos"),
     col("original_language").alias("originalLanguage"),
     col("releaseDate")
 )
