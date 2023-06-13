@@ -49,8 +49,8 @@ import os
 from datetime import datetime
 
 bucket_name = 'natalias-s3-bucket'
-diretorio_no_bucket = 'caminho/para/diretorio'###colocar caminho?
-arquivo_csv = '/caminho/para/arquivo.csv'###colocar caminho??
+diretorio_no_bucket = 'caminho/para/diretorio'
+arquivo_csv = '/caminho/para/arquivo.csv'
 data_processamento = datetime.now().strftime('%Y%m%d') 
 tipo_dado = 'filmes'
 caminho_arquivo_origem = os.path.join('Local', 'CSV', tipo_dado, data_processamento, nome_arquivo)
