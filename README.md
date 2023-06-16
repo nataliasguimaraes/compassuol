@@ -48,6 +48,10 @@ Grace Hopper<em>
   <img align="center" alt="Docker" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214584923-d9f3ec66-9558-425a-8d24-c2b816f2f201.png">
   <img align="center" alt="CloudAWS" height="25" width="30" src="https://user-images.githubusercontent.com/104440384/214564965-7f15743f-147a-428a-b84e-068578c5752c.png">
 
+#### 📝 ANOTAÇÕES PESSOAIS:
+
+   * <a href="https://natycodes.notion.site/COMPASS-UOL-1aedfaf2caff4a299063ee510956b566?pvs=4">NOTION</a>
+   
   <img align="right" alt="Nati-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/104440384/214576775-90842255-a57b-4ee2-b6fd-68d93831aece.png">
  </div>
  
