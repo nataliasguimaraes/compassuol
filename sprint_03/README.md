@@ -8,9 +8,9 @@ Monitor Matheus de Oliveira Toledo
 
 <!------------------------------------SUMMARY-->
 <p align="center">
-<a href="https://github.com/nataliasguimaraes/compassuol/tree/main/sprint_3#rocket-stacks--tools">STACKS & TOOLS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_3/README.md#-pontos-abordados">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_3/README.md#-pontos-abordados">ANOTAÇÕES PESSOAIS</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/nataliasguimaraes/compassuol/tree/main/sprint_03#rocket-stacks--tools">STACKS & TOOLS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_03/README.md#-pontos-abordados">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_03/README.md#-pontos-abordados">ANOTAÇÕES PESSOAIS</a>&nbsp;&nbsp;&nbsp;
 
 #
 
