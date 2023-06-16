@@ -7,9 +7,9 @@ Monitor Antonio Alex de Souza
 
 <!------------------------------------SUMMARY-->
 <p align="center">
-<a href="https://github.com/nataliasguimaraes/compassuol/sprint_02/#--sobre-a-aplica%C3%A7%C3%A3o-">STACKS & TOOLS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/compassuol/edit/main/sprint_02/README.md">ANOTAÇÕES PESSOAIS</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/nataliasguimaraes/compassuol/tree/main/sprint_02#rocket-stacks--tools">STACKS & TOOLS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/compassuol/tree/main/sprint_02#-pontos-abordados">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/compassuol/tree/main/sprint_02#-anotações-pessoais">ANOTAÇÕES PESSOAIS</a>&nbsp;&nbsp;&nbsp;
 
 #
 
