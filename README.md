@@ -25,7 +25,7 @@ Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvime
 - [X] #Sprint 9 - Apache Spark Streaming (10/05 a 23/05)
 - [X] #Sprint 10 - Visualização de dados (24/05 a 06/06)
 - [X] Apresentação final
-- [X] AWS Cloud Practitioner Cerfified
+- [X] [AWS Cloud Practitioner Cerfified](https://www.credly.com/badges/8cc870ce-05c6-4c9f-9cc1-36c26e22878e/linked_in_profile)
 
 <br>
 
@@ -36,6 +36,7 @@ Grace Hopper<em>
 
 #### :rocket: Linguagens, frameworks e ferramentas estudadas:
 <div>
+  <img align="center" alt="Linux" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214585540-742f932b-f868-4908-a65e-74094552ee53.png">
   <img align="center" alt="Github" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214586360-9770dad2-d14c-4927-b238-56cffa0409a9.png">
   <img align="center" alt="Git" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214585535-e73ee71d-804b-400c-adb9-e67fdea944fd.png">
   <img align="center" alt="Nati-HTML" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214584934-2d91da15-143b-460f-82ce-ee3566d63349.png">
@@ -44,9 +45,9 @@ Grace Hopper<em>
   <img align="center" alt="SQL" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/218635686-f8b56c01-19dd-451e-b787-4ab7d2e9fed2.png">
   <img align="center" alt="Python" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214360489-b5abd1ed-3612-448f-86d0-d934dff813ab.png">
   <img align="center" alt="Apache Spark" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214586357-b26325ee-5a40-4b24-96af-0b5cd5d8d4d5.png">
-  <img align="center" alt="CloudAWS" height="25" width="30" src="https://user-images.githubusercontent.com/104440384/214564965-7f15743f-147a-428a-b84e-068578c5752c.png">
   <img align="center" alt="Docker" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214584923-d9f3ec66-9558-425a-8d24-c2b816f2f201.png">
-  <img align="center" alt="Linux" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214585540-742f932b-f868-4908-a65e-74094552ee53.png">
+  <img align="center" alt="CloudAWS" height="25" width="30" src="https://user-images.githubusercontent.com/104440384/214564965-7f15743f-147a-428a-b84e-068578c5752c.png">
+
   <img align="right" alt="Nati-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/104440384/214576775-90842255-a57b-4ee2-b6fd-68d93831aece.png">
  </div>
  
