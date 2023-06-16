@@ -28,13 +28,14 @@ Organizar os dados de modo a potencializar seu consumo a todos os interessados c
 #### 📚 PONTOS ABORDADOS:
  
 AWS
- * [`ATHENA`](https://docs.aws.amazon.com/s3/index.html) Analise dados em escala
+ * [`ATHENA`](https://docs.aws.amazon.com/s3/index.html) Análise dados em escala
  * [`QUICKSIGHT`](https://docs.aws.amazon.com/lambda/index.html) Organizsação e apresentação de dados em paineis interativos
 #
 <!------------------------------------ANOTAÇÕES-->
 #### 📝 ANOTAÇÕES PESSOAIS:
+ * [`ATHENA`](https://natycodes.notion.site/Introduction-to-Amazon-Athena-592ed10a22e74c069ce81c6a7079b51b?pvs=4)
+ * [`QUICKSIGHT`](https://www.notion.so/natycodes/Introduction-to-Amazon-QuickSight-68520f58f90447a19e5afa699f94adce)
 
-Repositório GitHub.
  <br>  
   
 <hr>
