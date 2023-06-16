@@ -5,9 +5,7 @@ Realizada entre 27/05/23 e 07/06/23<br>
 Diego Antonio Lusa
 </p>
 
-README EM CONSTRUÇÃO!
-
-Continuamos nossa jornada de conhecimento no framework Apache Spark, agregando novos temas de estudo. Neste momento, você aprenderá como utilizá-lo com alguns serviços da AWS para realizar o processamento de dados na nuvem. Também é momento para você desenvolver a segunda etapa do projeto final.
+Organizar os dados de modo a potencializar seu consumo a todos os interessados corresponde a construção das fundações de um Data Lake. Todavia, o valor dos dados somente é evidenciado quanto torna-se informação e conhecimento a disposição da tomada de decisão. É neste ponto que a análise e a visualização de dados tornam-se disciplinas essenciais ao sucesso do projeto.
 
 <!------------------------------------SUMMARY-->
 <p align="center">
@@ -20,28 +18,18 @@ Continuamos nossa jornada de conhecimento no framework Apache Spark, agregando n
 #### :rocket: STACKS & TOOLS:
 <p align="left">
   <a href="https://aws.amazon.com/pt/"><img  alt="AWS"  width="30" height="30" src="https://user-images.githubusercontent.com/104440384/226235895-9f4ff2ee-f73c-471a-8fdc-8cdb7e295295.png"><a/> 
-  <a href="https://docs.docker.com/get-started/overview/"><img  alt="DOCKER"  width="30" height="30" src="https://user-images.githubusercontent.com/104440384/222456206-5a0ccd4f-28a4-41d2-aced-a62d8dc9a02a.png"><a/>
-  <a href="https://aws.amazon.com/pt/"><img  alt="Python"  width="30" height="30" src="https://user-images.githubusercontent.com/104440384/214360489-b5abd1ed-3612-448f-86d0-d934dff813ab.png"><a/> 
-  <a href="https://aws.amazon.com/pt/"><img  alt="Apache Spark"  width="30" height="30" src="https://user-images.githubusercontent.com/104440384/214586357-b26325ee-5a40-4b24-96af-0b5cd5d8d4d5.png"><a/> 
+  <a href="https://aws.amazon.com/pt/"><img  alt="Amazon Athena"  width="30" height="30" src="https://github.com/nataliasguimaraes/compassuol/assets/104440384/207db492-6c09-420d-9c8c-4497f3b385fe"><a/> 
+  <a href="https://aws.amazon.com/pt/"><img  alt="Amazon QuickSight"  width="30" height="30" src="https://github.com/nataliasguimaraes/compassuol/assets/104440384/cc16b1a7-13da-4063-ad2c-3c2e1402da39"><a/> 
 <br>
 
   #
 <!------------------------------------PRODUCTION SKILLS-->
 
 #### 📚 PONTOS ABORDADOS:
-
-
-EXTRAÇÃO DE DADOS API VIA AWS
- * [`Extração dados api TMDB`](https://developers.themoviedb.org/3/movies/get-movie-details) Ingestão de dados da API usando pandas e requests.
-    
+ 
 AWS
- * [`AWS S3`](https://docs.aws.amazon.com/s3/index.html) Armazenamento de dados e libs em buckets da AWS S3 via boto3.
- * [`AWS Lambda`](https://docs.aws.amazon.com/lambda/index.html) captura de dados na API, filtragem e persistência de dados via AWS Lambda.
-
-APACHE SPARK
- * [`Pyspark`](https://spark.apache.org/docs/latest/api/python/) geração de dados para serem processados via framework Apache Spark.
- * [`Spark SQL`](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/index.html) aplicação de recursos básicos de manipulação de dataframes através do framework Apache Spark.
-
+ * [`ATHENA`](https://docs.aws.amazon.com/s3/index.html) Analise dados em escala
+ * [`QUICKSIGHT`](https://docs.aws.amazon.com/lambda/index.html) Organizsação e apresentação de dados em paineis interativos
 #
 <!------------------------------------ANOTAÇÕES-->
 #### 📝 ANOTAÇÕES PESSOAIS:
