@@ -12,9 +12,9 @@ da primeira etapa do projeo final.
 
 <!------------------------------------SUMMARY-->
 <p align="center">
-<a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_7/README.md#rocket-stacks--tools">STACKS & TOOLS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_7/README.md#-pontos-abordados">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_7/README.md#-anota%C3%A7%C3%B5es-pessoais">ANOTAÇÕES PESSOAIS</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_07/README.md#rocket-stacks--tools">STACKS & TOOLS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_07/README.md#-pontos-abordados">PONTOS ABORDADOS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/compassuol/blob/main/sprint_07/README.md#-anota%C3%A7%C3%B5es-pessoais">ANOTAÇÕES PESSOAIS</a>&nbsp;&nbsp;&nbsp;
 
 
  <!------------------------------------STACKS-->
