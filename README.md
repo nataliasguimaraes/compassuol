@@ -1,7 +1,7 @@
 ## Oii, eu sou a Natália Guimarães, uma Engenheira de Dados em formação!
 
 
-Estou participando do programa de Estágio em **AWS Cloud Data Engineering** da **CompassUOL** <img alt="UOL" height="20" width="20" src="https://user-images.githubusercontent.com/104440384/214584734-789f5402-5283-40cc-8caa-63f29bb498c2.png">
+Estou participando do programa de **AWS Cloud Data Engineering** da **CompassUOL** <img alt="UOL" height="20" width="20" src="https://user-images.githubusercontent.com/104440384/214584734-789f5402-5283-40cc-8caa-63f29bb498c2.png">
 <br>integrando a SQUAD #3: CLOUDS :cloud:
 
 :city_sunset: Moro em Goiânia-GO, no centro-oeste do Brasil<br>
