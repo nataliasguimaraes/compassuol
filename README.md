@@ -25,7 +25,7 @@ Aqui você pode acompanhar um pouco dos meus estudos e projetos em desenvolvime
 - [X] #Sprint 9 - Apache Spark Streaming (10/05 a 23/05)
 - [X] #Sprint 10 - Visualização de dados (24/05 a 06/06)
 - [X] Apresentação final
-- [X] [AWS Cloud Practitioner Cerfified](https://www.credly.com/badges/8cc870ce-05c6-4c9f-9cc1-36c26e22878e/linked_in_profile)
+- [X] [AWS Cloud Practitioner Certified](https://www.credly.com/badges/8cc870ce-05c6-4c9f-9cc1-36c26e22878e/linked_in_profile)
 
 <br>
 
