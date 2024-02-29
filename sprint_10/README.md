@@ -1,4 +1,4 @@
-## SPRINT#10: PROCESSAMENDO DE DADOS NA NUVEM
+## SPRINT#10: PROCESSAMENTO DE DADOS NA NUVEM
 
 <p align="right">
 Realizada entre 27/05/23 e 07/06/23<br>
@@ -29,7 +29,7 @@ Organizar os dados de modo a potencializar seu consumo a todos os interessados c
  
 AWS
  * [`ATHENA`](https://docs.aws.amazon.com/s3/index.html) Análise dados em escala
- * [`QUICKSIGHT`](https://docs.aws.amazon.com/lambda/index.html) Organizsação e apresentação de dados em paineis interativos
+ * [`QUICKSIGHT`](https://docs.aws.amazon.com/lambda/index.html) Organização e apresentação de dados em paineis interativos
 #
 <!------------------------------------ANOTAÇÕES-->
 #### 📝 ANOTAÇÕES PESSOAIS:
